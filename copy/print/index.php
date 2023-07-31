@@ -36,7 +36,7 @@
 
 
                                 <?php 
-                                    $con = mysqli_connect("localhost","radius","23River@B","radius");
+                                    $con = mysqli_connect("localhost","radius","84River@B","radius");
 
                                     if(isset($_GET['search']))
                                     {

@@ -27,9 +27,9 @@
 // SETTINGS
 // ------------------------------------------------------------------------------------------------
 // Set your username
-define('LOGIN_USER', "Rivera");
+define('LOGIN_USER', "Administrator");
 // Set your password
-define('LOGIN_PASS', "23River@B");
+define('LOGIN_PASS', "84River@B");
 
 // LANGUAGES
 // ------------------------------------------------------------------------------------------------

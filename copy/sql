@@ -157,7 +157,7 @@ sql {
 	server = "localhost"
 	port = 3306
 	login = "radius"
-	password = "23River@B"
+	password = "84River@B"
 
 	# Connection info for Mongo
 	# Authentication Without SSL
